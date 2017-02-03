@@ -1,7 +1,7 @@
 # php-redis
 How to connect to Redis from PHP and basic operation.
 
-This is a basic php-redis connection script.
+This is a basic php-redis connection script. \n
 You need the redis-php drivers installed and configured in the php/bin and php.ini
 There are 2 files: red1.php and red_conn.php
 red_conn.php is where the connection to redis is made.
